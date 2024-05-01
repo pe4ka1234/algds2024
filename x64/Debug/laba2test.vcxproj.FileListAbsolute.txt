@@ -1,0 +1,4 @@
+C:\Users\andre\OneDrive\Рабочий стол\Политех\Папка для цифровой грамотности\laba2test\x64\Debug\laba2test.vcxproj.CopyComplete
+C:\Users\andre\OneDrive\Рабочий стол\Политех\Папка для цифровой грамотности\laba2test\x64\Debug\laba2test.exe
+C:\Users\andre\OneDrive\Рабочий стол\Политех\Папка для цифровой грамотности\laba2test\x64\Debug\gtest.pdb
+C:\Users\andre\OneDrive\Рабочий стол\Политех\Папка для цифровой грамотности\laba2test\x64\Debug\gtest_main.pdb
